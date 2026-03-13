@@ -6,12 +6,13 @@ Medieninformatik und Informatik-Lehramt Studiengänge der Universität Tübingen
 
 Dinge, die jedes Semester aktualisiert werden müssen:
 - `config.tex`: Alle enthaltenen Einträge
-- `info/vorlesungszeit/unikino.tex`: Spielplan des Uni-Kinos
+- `info/erste_woche/die_ersten_wochen.tex`: Stundenplan für die erste Woche und Vorlesungsbeschreibungen
+- `shared/vorlesungszeit/unikino.tex`: Zeiten des Uni-Kinos
 
 Dinge, die jedes Semester überprüft und ggf. aktualisiert werden müssen:
-- `info/adressen.tex`: Liste der aktuellen Professoren, etc.
-- `info/studienplaene/*`: Studienverlaufspläne
-- `info/fachschaft.tex`: Kontakte der anderen Fachschaften überprüfen
+- Links und QR-Codes: existieren die verlinkten Seiten noch
+- `kogni/adressen.tex`: Liste der aktuellen Professoren, etc. (für `info` nicht nötig)
+- `info/hilfe/pruefungsskretariate.tex`: Öffnungszeiten, etc.
 
 Nutzung des Makefiles:
 - `make help` ;)
